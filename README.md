@@ -28,4 +28,4 @@ An approach to quantify Technical Debt in an organization across various domains
 
 ## Proposed approach for assessing Technical Debt
 
-![](https://github.com/ddhami3/Technical-Debt-Assessment/approach.png?raw=true)
+![](Screenshots)(approach.png)
