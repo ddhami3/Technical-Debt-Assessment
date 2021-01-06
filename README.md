@@ -45,3 +45,6 @@ An approach to quantify Technical Debt in an organization across various domains
 - Technical debt percentage for each domain to identify the domain with the highest tech debt.
 - Overall tech debt score and percentage to assess the total tech debt.
 
+## In the above screenshot, one can see percentage of 69% which means 
+- A Moderate level of Techinacal Debt in an organization 
+- Application domain has the greatest Technical Debt
