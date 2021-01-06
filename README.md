@@ -36,3 +36,12 @@ An approach to quantify Technical Debt in an organization across various domains
 
 ### You can get score generated ont bases of criticality and weightage
 ![](Screenshots/security2.png)
+
+## Results
+
+![](Screenshots/results.png)
+
+- Technical debt score for each domain – split across each debt type.
+- Technical debt percentage for each domain to identify the domain with the highest tech debt.
+- Overall tech debt score and percentage to assess the total tech debt.
+
