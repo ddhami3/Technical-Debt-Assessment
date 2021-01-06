@@ -29,3 +29,10 @@ An approach to quantify Technical Debt in an organization across various domains
 ## Proposed approach for assessing Technical Debt
 
 ![](Screenshots/approach.png)
+
+## Sample Questionnaire - Security
+
+![](Screenshots/security1.png)
+
+### You can get score generated ont bases of criticality and weightage
+![](Screenshots/security2.png)
