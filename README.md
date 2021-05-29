@@ -18,7 +18,7 @@ An approach to quantify Technical Debt in an organization across various domains
 - Documentation Debt
 - Task Estimation  
 
-## 7 domains where Technical Debt could exist
+## 6 domains where Technical Debt could exist
 - Application
 - Infrastructure
 - Partnering
